@@ -1,0 +1,2 @@
+# Referenced at C:\Users\ilknu\OneDrive\Desktop\Files\Android\App\Chat App\Chat App\Chat App\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:38
+-keep class com.parse.starter.StarterApplication { <init>(...); }
